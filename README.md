@@ -1,8 +1,8 @@
-MDB Web Docs: Mozilla
+### MDB Web Docs: Mozilla
 
-Front-end Web Developer Learning Path
+### Front-end Web Developer Learning Path
 
-[DONE] 1. Getting Started
+[] 1. Getting Started
 [] 2. Semantics and structure with HTML
 	[] Introduction to HTML
 	[] Multimedia and embedding
