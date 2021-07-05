@@ -1,6 +1,6 @@
-MDB Web Docs: Mozilla
+### MDB Web Docs: Mozilla
 
-Front-end Web Developer Learning Path
+### Front-end Web Developer Learning Path
 
  - [DONE] 1. Getting Started
  - [] 2. Semantics and structure with HTML
@@ -27,5 +27,3 @@ Front-end Web Developer Learning Path
 - [] 7. Modern tooling
 	- [] Git and GitHub
 	- [] Understanding client-side web development tools
-	- [] Understanding client-side JavaScript frameworks
----------------------------------------------
