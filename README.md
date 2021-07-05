@@ -1,5 +1,8 @@
 ### MDB Web Docs: Mozilla
 
+### GUIDE: https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#semantics_and_structure_with_html
+
+
 ### Front-end Web Developer Learning Path
 
  - [x] 1. Getting Started
